@@ -1,0 +1,11 @@
+.filters {
+  width: 20%;
+  background-color: #ffff;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  height: fit-content;
+  text-align: left;
+  padding-left: 20px;
+}
+.filters li {
+  list-style-type: none;
+}

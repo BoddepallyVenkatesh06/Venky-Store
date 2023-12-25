@@ -1,0 +1,8 @@
+.main {
+  /* background-color: rgb(198, 224, 224); */
+  display: flex;
+  flex-direction: row;
+  gap: 4rem;
+  height: 100vh;
+  padding: 20px;
+}
