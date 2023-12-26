@@ -1,4 +1,4 @@
-# Venkys Store
+# Venky Store
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -27,7 +27,7 @@ Venkys Store is an e-commerce platform that allows users to browse and purchase 
 
     ```bash
     git clone https://github.com/BoddepallyVenkatesh06/venkys-store.git
-    cd venkys-store
+    cd venky-store
     ```
 
 2. Install dependencies:
